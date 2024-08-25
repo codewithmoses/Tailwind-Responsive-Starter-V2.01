@@ -1,7 +1,8 @@
 ---
 
 # Tailwind Responsive Starter V2.01
-
+![Project Screenshot](./dark.png)
+![Project Screenshot](./light.png)
 **Tailwind Responsive Starter V2.01** is a simple HTML template designed for beginners who want to quickly set up a responsive website with Tailwind CSS. This template includes a dark/light theme toggle, a responsive mobile navbar, and basic sections like the header, hero, features, contact, and footer.
 
 ## Table of Contents
