@@ -44,7 +44,7 @@ This project is intended for those new to Tailwind CSS who want a simple, respon
 
 1. Clone the repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/your-username/tailwind-responsive-starter-v2.01.git
+   git clone https://github.com/codewithmoses/Tailwind-Responsive-Starter-V2.01.git
    ```
 2. Navigate to the project directory:
    ```bash
